@@ -169,6 +169,7 @@ a, a:hover
 }
 .small
 {
+    filter: invert(100%);
     width: 50px;
 }
 
