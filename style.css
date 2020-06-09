@@ -1,7 +1,7 @@
 body
 {  
     font-family: 'RobotoDraft', 'Roboto', sans-serif;
-    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
     background-image: url("https://i.ibb.co/26KTGdk/papers-co-sj61-gray-dark-gradation-blur-3840x2400.jpg");
     height: 100%;
     background-position: center;
@@ -11,9 +11,7 @@ body
 
 *
 {
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    
+    box-sizing: border-box;  
 }
 /*BOX manu*/
 .box
@@ -104,8 +102,7 @@ p
     width:24em;
     margin: auto;
     border-radius:16px 16px 0px 0px;
-    -webkit-box-shadow:  0px 0px 0px #e1e1e3, -0px -0px 10px #000000;
-    box-shadow:  0px 0px 0px #e1e1e3, -0px -0px 10px #000000;
+    box-shadow: -0px -0px 10px #000000;
     margin-bottom:0em;
     margin-top:1em;
     position:relative;    
@@ -123,8 +120,7 @@ p
     position:relative;
     border-radius:0px 0px 16px 16px;
     overflow:hidden;
-    -webkit-box-shadow:  0px 0px 0px #e1e1e3, -0px -0px 27px #000000;
-    box-shadow:  0px 0px 0px #e1e1e3, -0px -0px 27px #000000;
+    box-shadow: -0px -0px 27px #000000;
     padding-top: 1em;
     margin-bottom:3em;
 }
