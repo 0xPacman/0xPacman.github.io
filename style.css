@@ -97,7 +97,7 @@ p
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #313335;
+    background-color: #161a1f;
     height:3em;
     width:24em;
     margin: auto;
@@ -110,7 +110,7 @@ p
 
 .property-card
 {
-    background: #313335;
+    background: #161a1f;
     color: aliceblue;
     height:28em;
     width:24em;
@@ -155,16 +155,16 @@ a, a:hover
     width: 40px;
     height: 28px;
     color: #000;
-    background-color: dimgrey;
-    border: 1px solid #404040;
+    background-color: #272e36;
+    border: 0.5px solid #10121a;
     padding-top: 5px;
-    border-radius: 22px;
+    border-radius: 24px;
 }
 .socialbtns .fa:hover
 {
     color: #FFF;
-    background-color: #202020;
-    border: 1px solid #202020;
+    background-color: #06070d;
+    border: 0.8px solid #10121a;
 }
 .small
 {
@@ -243,37 +243,4 @@ a, a:hover
     100% {
 	transform: rotateX(35deg) rotateY(55deg) rotateZ(360deg);
     }
-}
-
-/*Shelves*/
-
-.shelf
-{
-    display: table;
-    position: relative;
-    margin: 20px auto 0;
-    width: 350px;
-    height: 60px;
-    background-color: #000;
-    color: #fff;
-    border-radius:16px 16px 16px 16px;
-    
-}
-.shelf-icon
-{
-    display: table-cell;
-    vertical-align: middle;
-    width: 60px;
-    padding: 40px;
-    text-align: center;
-    background-color: #212121;
-    border-radius:16px 16px 16px 16px;
-    opacity: 70%;
-}
-
-.shelf-body
-{
-    display: table-cell;
-    vertical-align: middle;
-    padding: 30px 20px 30px 10px;
 }
