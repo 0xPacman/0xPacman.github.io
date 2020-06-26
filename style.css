@@ -218,6 +218,8 @@ a, a:hover
     border-top: 3px solid #EFEFFA;
 }
 
+/* Keyframes */
+
 @keyframes rotate-one {
     0% {
 	transform: rotateX(35deg) rotateY(-45deg) rotateZ(0deg);
