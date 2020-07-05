@@ -218,6 +218,39 @@ a, a:hover
     border-top: 3px solid #EFEFFA;
 }
 
+/*Shelves*/
+
+.shelf
+{
+    display: table;
+    position: relative;
+    margin: 20px auto 0;
+    width: 350px;
+    height: 60px;
+    background-color: #000;
+    color: #fff;
+    border-radius:16px 16px 16px 16px;
+    
+}
+.shelf-icon
+{
+    display: table-cell;
+    vertical-align: middle;
+    width: 60px;
+    padding: 40px;
+    text-align: center;
+    background-color: #212121;
+    border-radius:16px 16px 16px 16px;
+    opacity: 70%;
+}
+
+.shelf-body
+{
+    display: table-cell;
+    vertical-align: middle;
+    padding: 30px 20px 30px 10px;
+}
+
 /* Keyframes */
 
 @keyframes rotate-one {
