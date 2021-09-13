@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
-Domain: ahmed0x7ce.github.io
-Token: 822f5ad298f2dce7818e9e413dc299deb03ac7daea4cbd2e4e2c1d3ee584a256
+Domain: pacman.engineer
+Token: a987657b9552ceb8f92d303ddac33c30d3e63e79d0cb5c6f9cdc1e9d30da1e9a
