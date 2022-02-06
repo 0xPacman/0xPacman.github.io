@@ -2,4 +2,4 @@
 
 my simple portfolio and blog.
 
--- the blog is still undergoing maintenance right now. -- 
+~~ the blog is still undergoing maintenance right now. ~~
